@@ -7,4 +7,4 @@ This does require some type of web-server to run, because AnyOrigin doesn't allo
 
 Check out the live version on my site: <a href="https://afitz.space/Pages/Newest-Pastebin-Paste">afitz.space</a>.
 
-<img href="screenshot.png">
+![Screenshot of Page](https://raw.githubusercontent.com/A-Fitz/Newest-Pastebin-Paste/master/screenshot.png)
